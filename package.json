@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/vishal-deoleya/TGH_website#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "bcrypt-nodejs": "0.0.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5",
+    "morgan": "^1.9.0"
   }
 }
