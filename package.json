@@ -1,0 +1,22 @@
+{
+  "name": "golden-hearts",
+  "version": "1.0.0",
+  "description": "First version of TGH website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal-deoleya/TGH_website.git"
+  },
+  "author": "Vishal Singh Deoleya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishal-deoleya/TGH_website/issues"
+  },
+  "homepage": "https://github.com/vishal-deoleya/TGH_website#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
